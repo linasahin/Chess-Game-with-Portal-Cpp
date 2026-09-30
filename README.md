@@ -40,17 +40,9 @@ src/
 Makefile
 data/ (game configurations)
 
-shell
-Copy
-Edit
-
 ## ⚡ How to Run
 make
 ./chessgame
-
-markdown
-Copy
-Edit
 
 ## Author
 - 👩‍💻 Lina Şahin
